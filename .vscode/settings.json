@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["test-lib\\**\\*.jar"],
+  "liveServer.settings.port": 5501,
+  "java.debug.settings.onBuildFailureProceed": true,
+  "cSpell.words": ["BBSR", "Cuttack"]
+}

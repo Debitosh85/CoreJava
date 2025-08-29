@@ -8,7 +8,7 @@ public class CompanyMain {
 
         Manager m = new Manager(emp);
 
-        // We can the reference of One Object to ConStructor for Copying the Content of
+        // We can pass the reference of One Object to ConStructor for Copying the Content of
         // Another Object
 
         System.out.println(m);

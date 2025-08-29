@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 import java.util.Scanner;
 import java.util.function.Function;

@@ -1,5 +1,5 @@
 
-package Practice;
+package practice;
 
 class Test {
 

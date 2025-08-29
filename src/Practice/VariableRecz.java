@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 public class VariableRecz {
     public static void main(String[] args) {

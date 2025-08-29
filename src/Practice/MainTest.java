@@ -1,5 +1,5 @@
 
-package Practice;
+package practice;
 
 import java.util.*;
 

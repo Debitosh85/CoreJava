@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 /*
  * lass Test10 {

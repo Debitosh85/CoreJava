@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 public class Test11 {
     static int i = 0;
