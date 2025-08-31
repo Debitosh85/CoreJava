@@ -65,6 +65,6 @@ public class ClassLoadingInformation {
     
     // java.lang.NullPointerException: Cannot invoke "java.lang.ClassLoader.getParent()" because the return value of "java.lang.Class.getClassLoader()" is null
 
-    /* OutPut comes null because the BootStrap class Loader is the built in class Loader for Jvm So for that reason the implementation is not given (it will load only predefined.class file also called API level .class files) */
+    /* OutPut comes null because the BootStrap class Loader is the built in class Loader for Jvm So for that reason the implementation is not given (it will load only predefined.class file also called API level .class files) hence we are getting null */
   }
 }
