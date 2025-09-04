@@ -1,6 +1,6 @@
 package practice;
 
-/* class Blanks {
+ /* class Blanks {
 
     final int x;
 
@@ -15,7 +15,7 @@ package practice;
 
 }
 
-public class Blank {
+public class BlankFinalField {
 
     public static void main(String[] args) {
 
@@ -24,8 +24,8 @@ public class Blank {
 
     }
 
-}
- */
+} */
+ 
 
 /* class Test
 {
@@ -54,7 +54,7 @@ public class BlankFinalFieldDemo1 {
 
 } */
 
-class Test {
+/* class Test {
 
 	final int x;
 
@@ -77,3 +77,4 @@ public class BlankFinalField {
 
 	}
 }
+ */
