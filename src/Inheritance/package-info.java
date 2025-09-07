@@ -1,2 +1,2 @@
-package com.oop.inhertance;
+package Inheritance;
 

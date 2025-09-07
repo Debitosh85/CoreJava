@@ -1,4 +1,4 @@
-package com.oop.inhertance;
+package Inheritance;
 
 public class MainLibrary {
 

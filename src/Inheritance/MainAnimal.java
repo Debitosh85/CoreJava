@@ -1,11 +1,11 @@
-package com.oop.inhertance;
+package Inheritance;
 
 public class MainAnimal {
 
 	public static void main(String[] args) {
 		
-		Dog mydog = new Dog("Buddy",true,"Labrador");
-		mydog.displayDogDetails();
+		Dog myDog = new Dog("Buddy",true,"Labrador");
+		myDog.displayDogDetails();
 
 	}
 

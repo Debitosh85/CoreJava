@@ -1,4 +1,4 @@
-package com.oop.inhertance;
+package Inheritance;
 
 public class OnlineShopping {
 	
@@ -12,17 +12,17 @@ public class OnlineShopping {
 		this.price = price ;
 	}
 	
-	public void displayinfo()
+	public void displayInfo()
 	{
 		System.out.println("Name of product is :"+ name);
 		System.out.println("Price of the product is :"+price);
 	}
 	
-	public int calculateTotalcost(int quantity)
+	public int calculateTotalCost(int quantity)
 	{
-		int  totalcost = (int)  price * quantity;
+		int  totalCost = (int)  price * quantity;
 		
-		return totalcost;
+		return totalCost;
 	}
 	
 }
@@ -39,9 +39,9 @@ public class OnlineShopping {
 			
 		}
 		
-		public void displayinfo()
+		public void displayInfo()
 		{
-			super.displayinfo();
+			super.displayInfo();
 			System.out.println("Brand name is :"+brand);
 		}
 	}
@@ -56,9 +56,9 @@ public class OnlineShopping {
 			this.size = size;
 		}
 		
-		public void displayinfo()
+		public void displayInfo()
 		{
-			super.displayinfo();
+			super.displayInfo();
 			System.out.println("Size is :"+size);
 		}
 	}

@@ -1,4 +1,4 @@
-package com.oop.inhertance;
+package Inheritance;
 
 public class MainOnlineshopping {
 
@@ -8,14 +8,14 @@ public class MainOnlineshopping {
 		
 //		Elect.calculateTotalcost(4);
 		
-		System.out.println("Total Electrical cost is "+ Elect.calculateTotalcost(5));
-		Elect.displayinfo();
+		System.out.println("Total Electrical cost is "+ Elect.calculateTotalCost(5));
+		Elect.displayInfo();
 		
 		System.out.println("-----------------------------");
 		
 		Clothing cloth = new Clothing("Louis Vuitton",7000,"M");
-		System.out.println("Total clothing cost is " +cloth.calculateTotalcost(6));
-		cloth.displayinfo();
+		System.out.println("Total clothing cost is " +cloth.calculateTotalCost(6));
+		cloth.displayInfo();
 		
 		
 		

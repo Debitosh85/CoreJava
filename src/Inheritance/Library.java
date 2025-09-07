@@ -1,4 +1,4 @@
-package com.oop.inhertance;
+package Inheritance;
 
 public class Library {
 	
@@ -41,10 +41,9 @@ public class Library {
 		 super(authorOfTheBook,Title);
 		 this.fileFormat = fileFormat;
 	} 
-	 
-	 public void displayEbookInfo()
-	 {
-		 super.displayBookInfo();
-		 System.out.println("File Format is "+fileFormat);
-	 }
- }
+	
+	public void displayEbookInfo()
+	{ super.displayBookInfo();
+	System.out.println("File Format is "+fileFormat);
+}
+}
