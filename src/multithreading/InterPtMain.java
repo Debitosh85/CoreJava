@@ -5,7 +5,7 @@ public class InterPtMain {
 
     InterPt t = new InterPt();
     t.start();
-    //t.interrupt();
+    t.interrupt();
 
     for (int i = 0; i <= 10; i++) {
       System.out.println(" End of main thread");
