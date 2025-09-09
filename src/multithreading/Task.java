@@ -1,4 +1,4 @@
-package multithreadingtask;
+package multithreading;
 
 class NewPlatForm2
 {

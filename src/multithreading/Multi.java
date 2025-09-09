@@ -1,4 +1,4 @@
-package Multi;
+package multithreading;
 
 class Parrot implements Runnable {
     public void run() {
