@@ -23,7 +23,7 @@ class Multi {
 
         new Thread(new Runnable() {
             public void run() {
-                ;
+                
             }
         }, "Koyal").start();
 

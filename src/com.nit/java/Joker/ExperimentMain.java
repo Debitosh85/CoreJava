@@ -1,4 +1,4 @@
-package com.java.Joker;
+package com.nit.java.Joker;
 
 public class ExperimentMain {
     public static void main(String[] args) {
