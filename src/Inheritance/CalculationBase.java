@@ -1,4 +1,4 @@
-package com.oop.inhertance;
+package Inheritance;
 
 public class CalculationBase {
 	
@@ -23,12 +23,12 @@ public class CalculationBase {
 	}
 }
 
-class AdvancedCalculation extends CalculationBase
+class AdvancedCalulation extends CalculationBase
 {   double additionalNum1;
 	double additionalNum2;
 	String operation;
 	
-    AdvancedCalculation()
+  AdvancedCalculation()
 	{
 		super();
 	}

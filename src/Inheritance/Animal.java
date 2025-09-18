@@ -1,4 +1,4 @@
-package com.oop.inhertance;
+package Inheritance;
 
 public class Animal {
 	
@@ -10,7 +10,7 @@ public class Animal {
 		
 		if(name==null)
 		{
-			System.out.println("Error Invali Input");
+			System.out.println("Error Invalid Input");
 		}
 		
 	}
