@@ -18,7 +18,7 @@ class NewPlatForm2
          }.start();
 
          new Thread()
-           {
+          {
               public void run()
                {
             	  for(int i=1;i<=(3^5);i++)
