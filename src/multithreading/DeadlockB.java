@@ -1,10 +1,8 @@
 package multithreading;;
 
 public class DeadlockB {
-
   public  synchronized  void d2(DeadlockA a){
-    System.out.println("Thread T2 Started execcution of d2 method");
-
+    System.out.println("Thread T2 Started execution of d2 method");
     try {
         Thread.sleep(5000);
     } catch (InterruptedException  e) {

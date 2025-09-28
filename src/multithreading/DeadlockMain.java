@@ -1,7 +1,6 @@
 package multithreading;
 
 public class DeadlockMain  extends Thread{
-
   DeadlockA a = new DeadlockA();
   DeadlockB b = new DeadlockB();
 
@@ -9,7 +8,6 @@ public class DeadlockMain  extends Thread{
     this.start();
     a.d1(b);
   }
-
   @Override
   public void run() {
     b.d2(a);
@@ -17,7 +15,6 @@ public class DeadlockMain  extends Thread{
   public static void main(String[] args) {
     DeadlockMain main = new DeadlockMain();
     main.m1();
-
   }
 
 }
