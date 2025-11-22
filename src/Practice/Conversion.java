@@ -1,5 +1,5 @@
 
-package Debitosh;
+package practice;
 
 class Conversion{
 	public static void main(String[] args) 

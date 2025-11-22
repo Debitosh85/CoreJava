@@ -21,10 +21,10 @@ class Synco {
   }
 }
 
-class Sync extends Thread {
+class Syncs extends Thread {
   Synco n;
 
-  public Sync(Synco n) {
+  public Syncs(Synco n) {
     this.n = n;
   }
 
@@ -55,7 +55,7 @@ public class SynchronizedDemo {
 
     Synco s = new Synco();
 
-    Sync s1 = new Sync(s);
+    Syncs s1 = new Syncs(s);
     Syn s2 = new Syn(s);
 
     s1.start();

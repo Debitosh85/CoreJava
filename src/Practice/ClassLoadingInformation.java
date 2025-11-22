@@ -53,9 +53,7 @@ public class ClassLoadingInformation {
   }
 } */
 
-class Access {
-  
-}
+
 
 public class ClassLoadingInformation {
   public static void main(String[] args) {

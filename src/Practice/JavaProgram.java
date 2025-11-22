@@ -1,4 +1,4 @@
-package Debitosh;
+package practice;
 
 public class JavaProgram {
 
