@@ -10,7 +10,5 @@ public class Addition {
 		System.out.println(z);
 		
 	}
-	
-	
 
 }

@@ -4,5 +4,9 @@
   "java.project.referencedLibraries": ["test-lib\\**\\*.jar"],
   "liveServer.settings.port": 5501,
   "java.debug.settings.onBuildFailureProceed": true,
-  "cSpell.words": ["BBSR", "Cuttack"]
+  "cSpell.words": [
+    "BBSR",
+    "Cuttack"
+  ],
+  "java.format.settings.url": ".vscode/java-formatter.xml"
 }
