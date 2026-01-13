@@ -4,7 +4,7 @@ public class MainVehicle {
 
 	public static void main(String[] args) {
 		
-		Car c1 = new Car("Hero","Vs-100",2021,4);
+		CarMain c1 = new CarMain("Hero","Vs-100",2021,4);
 		c1.displayCarInfo();
 		
 		System.out.println("===================");

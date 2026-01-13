@@ -1,0 +1,1840 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ProductSupplier",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.ProductSupplier",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "EmployeeSupplier",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.EmployeeSupplier",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VerifySupplier",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.VerifySupplier",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "FunctionVerifier",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.FunctionVerifier",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ConsumerVerifier",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.ConsumerVerifier",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "NameVerifier",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.NameVerifier",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VerifyAge",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.VerifyAge",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VerifyName",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.VerifyName",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CheckEvenNo",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.CheckEvenNo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Searching",
+      "request": "launch",
+      "mainClass": "Logics.Searching",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "TypeParameter",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.TypeParameter",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "name": "Java",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [
+        ".",
+        "${fileDirname}"
+      ]
+    },
+    {
+      "name": "Java Console App",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [
+        ".",
+        "${fileDirname}"
+      ],
+      "externalConsole": true
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AnimalBehaviour",
+      "request": "launch",
+      "mainClass": "AnimalBehaviour",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ArrayReverse",
+      "request": "launch",
+      "mainClass": "Arrays.ArrayReverse",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Employees",
+      "request": "launch",
+      "mainClass": "Arrays.Employees",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "FindDuplicate",
+      "request": "launch",
+      "mainClass": "Arrays.FindDuplicate",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Arrays.Test",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Bankdemo",
+      "request": "launch",
+      "mainClass": "Bankdemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "BookMain",
+      "request": "launch",
+      "mainClass": "BookMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Bowlerstats",
+      "request": "launch",
+      "mainClass": "Bowlerstats",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CalculationBaseMain",
+      "request": "launch",
+      "mainClass": "CalculationBaseMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Car2",
+      "request": "launch",
+      "mainClass": "Car2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Collection",
+      "request": "launch",
+      "mainClass": "Collection.Collection",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Collection4",
+      "request": "launch",
+      "mainClass": "Collection.Collection4",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CollectionExample",
+      "request": "launch",
+      "mainClass": "Collection.CollectionExample",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Collections2",
+      "request": "launch",
+      "mainClass": "Collection.Collections2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "FailFastIterator",
+      "request": "launch",
+      "mainClass": "Collection.FailFastIterator",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "TreeSetDemo1",
+      "request": "launch",
+      "mainClass": "Collection.TreeSetDemo1",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Demomodel2",
+      "request": "launch",
+      "mainClass": "Connection.Demomodel2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DeepMain",
+      "request": "launch",
+      "mainClass": "DeepMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DefaultMain",
+      "request": "launch",
+      "mainClass": "DefaultMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DogMain",
+      "request": "launch",
+      "mainClass": "DogMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ELC",
+      "request": "launch",
+      "mainClass": "ELC",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ElectronicsMain",
+      "request": "launch",
+      "mainClass": "ElectronicsMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "EmpSalMain",
+      "request": "launch",
+      "mainClass": "EmpSalMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "EmployeeDemo",
+      "request": "launch",
+      "mainClass": "EmployeeDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "EmployeeMain",
+      "request": "launch",
+      "mainClass": "EmployeeMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "EpmreqMain",
+      "request": "launch",
+      "mainClass": "EpmreqMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ExcptionDemo1",
+      "request": "launch",
+      "mainClass": "ExceptionHandling.ExcptionDemo1",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ExeCutor",
+      "request": "launch",
+      "mainClass": "ExeCutor",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ExperimentMain",
+      "request": "launch",
+      "mainClass": "ExperimentMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "FanFunction",
+      "request": "launch",
+      "mainClass": "FanFunction",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Calculation",
+      "request": "launch",
+      "mainClass": "FunctionalInterface.Calculation",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "HierarchicalDemo",
+      "request": "launch",
+      "mainClass": "HierarchicalDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "HierarchicalDemo2",
+      "request": "launch",
+      "mainClass": "HierarchicalDemo2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AccessMain",
+      "request": "launch",
+      "mainClass": "Implementation.AccessMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "JdbcMain",
+      "request": "launch",
+      "mainClass": "Implementation.JdbcMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "InstanceBloMain",
+      "request": "launch",
+      "mainClass": "InstanceBloMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "InstanceOverwriteMain",
+      "request": "launch",
+      "mainClass": "InstanceOverwriteMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "InstituteMain",
+      "request": "launch",
+      "mainClass": "InstituteMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Declare",
+      "request": "launch",
+      "mainClass": "Logics.Declare",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciSeries",
+      "request": "launch",
+      "mainClass": "Logics.FibonacciSeries",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "SecondLargest",
+      "request": "launch",
+      "mainClass": "Logics.SecondLargest",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "StrnLogics",
+      "request": "launch",
+      "mainClass": "Logics.StrnLogics",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainAnimal",
+      "request": "launch",
+      "mainClass": "MainAnimal",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainFamily",
+      "request": "launch",
+      "mainClass": "MainFamily",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainLibrary",
+      "request": "launch",
+      "mainClass": "MainLibrary",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainOnlineshopping",
+      "request": "launch",
+      "mainClass": "MainOnlineshopping",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainPerson",
+      "request": "launch",
+      "mainClass": "MainPerson",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainTicket",
+      "request": "launch",
+      "mainClass": "MainTicket",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainVehicle",
+      "request": "launch",
+      "mainClass": "MainVehicle",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ManagerMain",
+      "request": "launch",
+      "mainClass": "ManagerMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MultiInstanceBlockMain",
+      "request": "launch",
+      "mainClass": "MultiInstanceBlockMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "NonsBlockMain",
+      "request": "launch",
+      "mainClass": "NonsBlockMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ParentMain",
+      "request": "launch",
+      "mainClass": "ParentMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ProductDemo",
+      "request": "launch",
+      "mainClass": "ProductDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ProductMain",
+      "request": "launch",
+      "mainClass": "ProductMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Refer",
+      "request": "launch",
+      "mainClass": "Refer",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ScopyMain",
+      "request": "launch",
+      "mainClass": "ScopyMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ShadowMain",
+      "request": "launch",
+      "mainClass": "ShadowMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "SingleLevel",
+      "request": "launch",
+      "mainClass": "SingleLevel",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "SingleLevelDemo2",
+      "request": "launch",
+      "mainClass": "SingleLevelDemo2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Question1",
+      "request": "launch",
+      "mainClass": "Sreamapi.Question1",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "StaffMain",
+      "request": "launch",
+      "mainClass": "StaffMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test(1)",
+      "request": "launch",
+      "mainClass": "Stream.Test",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test10",
+      "request": "launch",
+      "mainClass": "Stream.Test10",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "Stream.Test2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test3",
+      "request": "launch",
+      "mainClass": "Stream.Test3",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test4",
+      "request": "launch",
+      "mainClass": "Stream.Test4",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test5",
+      "request": "launch",
+      "mainClass": "Stream.Test5",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test6",
+      "request": "launch",
+      "mainClass": "Stream.Test6",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test7",
+      "request": "launch",
+      "mainClass": "Stream.Test7",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test8",
+      "request": "launch",
+      "mainClass": "Stream.Test8",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test9",
+      "request": "launch",
+      "mainClass": "Stream.Test9",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test(2)",
+      "request": "launch",
+      "mainClass": "String.Test",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "StudentDemo",
+      "request": "launch",
+      "mainClass": "StudentDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "StudentMain",
+      "request": "launch",
+      "mainClass": "StudentMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test14",
+      "request": "launch",
+      "mainClass": "Test14",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "BankMain",
+      "request": "launch",
+      "mainClass": "coreJavaOops.BankMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MemoryMain",
+      "request": "launch",
+      "mainClass": "coreJavaOops.MemoryMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ShadowMain(1)",
+      "request": "launch",
+      "mainClass": "coreJavaOops.ShadowMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "StudentMain(1)",
+      "request": "launch",
+      "mainClass": "coreJavaOops.StudentMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "BankMain(1)",
+      "request": "launch",
+      "mainClass": "deb.Int_erface.BankMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ExampleMain",
+      "request": "launch",
+      "mainClass": "deb.Int_erface.ExampleMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Extension",
+      "request": "launch",
+      "mainClass": "deb.Int_erface.Extension",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceDemo",
+      "request": "launch",
+      "mainClass": "deb.Int_erface.InterfaceDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainIntFace",
+      "request": "launch",
+      "mainClass": "deb.Int_erface.MainIntFace",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MultipleInheritance",
+      "request": "launch",
+      "mainClass": "deb.Int_erface.MultipleInheritance",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VehicleMain",
+      "request": "launch",
+      "mainClass": "deb.Int_erface.VehicleMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AnnonyMousFunctionalInterface",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.AnnonyMousFunctionalInterface",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Calculate",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.Calculate",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CheckEven",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.CheckEven",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "LambdaDemo",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.LambdaDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "LengthCount",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.LengthCount",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VerifyGeoMetry",
+      "request": "launch",
+      "mainClass": "deb.functionalinterface.VerifyGeoMetry",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DependencyMain",
+      "request": "launch",
+      "mainClass": "dependencyinjection.DependencyMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "exper.Demo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Multi",
+      "request": "launch",
+      "mainClass": "exper.Multi",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "exper.Test1",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test2(1)",
+      "request": "launch",
+      "mainClass": "exper.Test2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test3(1)",
+      "request": "launch",
+      "mainClass": "exper.Test3",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Trial",
+      "request": "launch",
+      "mainClass": "exper.Trial",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Generic5",
+      "request": "launch",
+      "mainClass": "generic.Generic5",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "GenericTest",
+      "request": "launch",
+      "mainClass": "generic.GenericTest",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "GenericTest2",
+      "request": "launch",
+      "mainClass": "generic.GenericTest2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Automobile",
+      "request": "launch",
+      "mainClass": "hasarelation.a.Automobile",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CompanyMain",
+      "request": "launch",
+      "mainClass": "heapandstack.CompanyMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "HeapMain",
+      "request": "launch",
+      "mainClass": "heapandstack.HeapMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MemComplexMain",
+      "request": "launch",
+      "mainClass": "heapandstack.MemComplexMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MultiGc",
+      "request": "launch",
+      "mainClass": "heapandstack.MultiGc",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ProductCopyMain",
+      "request": "launch",
+      "mainClass": "heapandstack.ProductCopyMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test(3)",
+      "request": "launch",
+      "mainClass": "heapandstack.Test",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "jdbc.Main",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AutoMain",
+      "request": "launch",
+      "mainClass": "loosecoupling.AutoMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CabCustomerServiceTester",
+      "request": "launch",
+      "mainClass": "multithreading.CabCustomerServiceTester",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ClevelLockMain",
+      "request": "launch",
+      "mainClass": "multithreading.ClevelLockMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DaemonMain",
+      "request": "launch",
+      "mainClass": "multithreading.DaemonMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DeadlockMain",
+      "request": "launch",
+      "mainClass": "multithreading.DeadlockMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DisplayHelperMainSync",
+      "request": "launch",
+      "mainClass": "multithreading.DisplayHelperMainSync",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "InterPt2Main",
+      "request": "launch",
+      "mainClass": "multithreading.InterPt2Main",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "InterPtMain",
+      "request": "launch",
+      "mainClass": "multithreading.InterPtMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "JoinDemo",
+      "request": "launch",
+      "mainClass": "multithreading.JoinDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainChild",
+      "request": "launch",
+      "mainClass": "multithreading.MainChild",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Multi(1)",
+      "request": "launch",
+      "mainClass": "multithreading.Multi",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MyThreadMain1",
+      "request": "launch",
+      "mainClass": "multithreading.MyThreadMain1",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MythreadMain",
+      "request": "launch",
+      "mainClass": "multithreading.MythreadMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "NewPlatForm2",
+      "request": "launch",
+      "mainClass": "multithreading.NewPlatForm2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "PassExecMain",
+      "request": "launch",
+      "mainClass": "multithreading.PassExecMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "PriorMain",
+      "request": "launch",
+      "mainClass": "multithreading.PriorMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "SyncBloMain",
+      "request": "launch",
+      "mainClass": "multithreading.SyncBloMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "SyncHelperMain",
+      "request": "launch",
+      "mainClass": "multithreading.SyncHelperMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "SynchronizedDemo",
+      "request": "launch",
+      "mainClass": "multithreading.SynchronizedDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "TetstMain",
+      "request": "launch",
+      "mainClass": "multithreading.TetstMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ThreadA1",
+      "request": "launch",
+      "mainClass": "multithreading.ThreadA1",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ThreadA2Main",
+      "request": "launch",
+      "mainClass": "multithreading.ThreadA2Main",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ThredUsinglambda",
+      "request": "launch",
+      "mainClass": "multithreading.ThredUsinglambda",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "TicketBookingMain",
+      "request": "launch",
+      "mainClass": "multithreading.TicketBookingMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ConstCallMain",
+      "request": "launch",
+      "mainClass": "overload.ConstCallMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DemoMain",
+      "request": "launch",
+      "mainClass": "overload.DemoMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "OverloadedConstMain",
+      "request": "launch",
+      "mainClass": "overload.OverloadedConstMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Pattern1",
+      "request": "launch",
+      "mainClass": "pattern.Pattern1",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Pattern2",
+      "request": "launch",
+      "mainClass": "pattern.Pattern2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Pattern3",
+      "request": "launch",
+      "mainClass": "pattern.Pattern3",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Pattern4",
+      "request": "launch",
+      "mainClass": "pattern.Pattern4",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Pattern6",
+      "request": "launch",
+      "mainClass": "pattern.Pattern6",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Pattern7",
+      "request": "launch",
+      "mainClass": "pattern.Pattern7",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Ambiguity",
+      "request": "launch",
+      "mainClass": "polymorphism.Ambiguity",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Ambiguity2",
+      "request": "launch",
+      "mainClass": "polymorphism.Ambiguity2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AmbiguityResolve",
+      "request": "launch",
+      "mainClass": "polymorphism.AmbiguityResolve",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AnimalMain",
+      "request": "launch",
+      "mainClass": "polymorphism.AnimalMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Annonymous",
+      "request": "launch",
+      "mainClass": "polymorphism.Annonymous",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AnonymousDemo",
+      "request": "launch",
+      "mainClass": "polymorphism.AnonymousDemo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AutoBoxing",
+      "request": "launch",
+      "mainClass": "polymorphism.AutoBoxing",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AutoMobile",
+      "request": "launch",
+      "mainClass": "polymorphism.AutoMobile",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AutoUnbox",
+      "request": "launch",
+      "mainClass": "polymorphism.AutoUnbox",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Bank",
+      "request": "launch",
+      "mainClass": "polymorphism.Bank",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "BirdMain",
+      "request": "launch",
+      "mainClass": "polymorphism.BirdMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CompConstantMain",
+      "request": "launch",
+      "mainClass": "polymorphism.CompConstantMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CompMain",
+      "request": "launch",
+      "mainClass": "polymorphism.CompMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ConstOverload",
+      "request": "launch",
+      "mainClass": "polymorphism.ConstOverload",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Covariant",
+      "request": "launch",
+      "mainClass": "polymorphism.Covariant",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Covariant2",
+      "request": "launch",
+      "mainClass": "polymorphism.Covariant2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Exper",
+      "request": "launch",
+      "mainClass": "polymorphism.Exper",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "FruitInventory",
+      "request": "launch",
+      "mainClass": "polymorphism.FruitInventory",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Garege",
+      "request": "launch",
+      "mainClass": "polymorphism.Garege",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "GeoMetry",
+      "request": "launch",
+      "mainClass": "polymorphism.GeoMetry",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "HorsePower",
+      "request": "launch",
+      "mainClass": "polymorphism.HorsePower",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Instance",
+      "request": "launch",
+      "mainClass": "polymorphism.Instance",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "JungleMain",
+      "request": "launch",
+      "mainClass": "polymorphism.JungleMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "OverloadMethod",
+      "request": "launch",
+      "mainClass": "polymorphism.OverloadMethod",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "RestaurantService",
+      "request": "launch",
+      "mainClass": "polymorphism.RestaurantService",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "RoleAccessModifier",
+      "request": "launch",
+      "mainClass": "polymorphism.RoleAccessModifier",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Safari",
+      "request": "launch",
+      "mainClass": "polymorphism.Safari",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ShapeMain",
+      "request": "launch",
+      "mainClass": "polymorphism.ShapeMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VarArgsDemos",
+      "request": "launch",
+      "mainClass": "polymorphism.VarArgsDemos",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VarDemo3",
+      "request": "launch",
+      "mainClass": "polymorphism.VarDemo3",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VararDemo2",
+      "request": "launch",
+      "mainClass": "polymorphism.VararDemo2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VarargssDemo4",
+      "request": "launch",
+      "mainClass": "polymorphism.VarargssDemo4",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "WrapperClass",
+      "request": "launch",
+      "mainClass": "polymorphism.WrapperClass",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "WrapperClass2",
+      "request": "launch",
+      "mainClass": "polymorphism.WrapperClass2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "WrapperClass3",
+      "request": "launch",
+      "mainClass": "polymorphism.WrapperClass3",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "WrapperClass4",
+      "request": "launch",
+      "mainClass": "polymorphism.WrapperClass4",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Zoo",
+      "request": "launch",
+      "mainClass": "polymorphism.Zoo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "AccessMain(1)",
+      "request": "launch",
+      "mainClass": "practice.AccessMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Addition",
+      "request": "launch",
+      "mainClass": "practice.Addition",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ArithMain",
+      "request": "launch",
+      "mainClass": "practice.ArithMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "BankMain(2)",
+      "request": "launch",
+      "mainClass": "practice.BankMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "BlankFinalFieldDemo1",
+      "request": "launch",
+      "mainClass": "practice.BlankFinalFieldDemo1",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CheckMain",
+      "request": "launch",
+      "mainClass": "practice.CheckMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ClassLoadingInformation",
+      "request": "launch",
+      "mainClass": "practice.ClassLoadingInformation",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CommandlineArg",
+      "request": "launch",
+      "mainClass": "practice.CommandlineArg",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "CompoundIntrest",
+      "request": "launch",
+      "mainClass": "practice.CompoundIntrest",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Conversion",
+      "request": "launch",
+      "mainClass": "practice.Conversion",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Cube",
+      "request": "launch",
+      "mainClass": "practice.Cube",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Cyllinder",
+      "request": "launch",
+      "mainClass": "practice.Cyllinder",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "DetailInfo",
+      "request": "launch",
+      "mainClass": "practice.DetailInfo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "EmergencyService",
+      "request": "launch",
+      "mainClass": "practice.EmergencyService",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Even",
+      "request": "launch",
+      "mainClass": "practice.Even",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Expect",
+      "request": "launch",
+      "mainClass": "practice.Expect",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Factorial(1)",
+      "request": "launch",
+      "mainClass": "practice.Factorial",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Fooditems",
+      "request": "launch",
+      "mainClass": "practice.Fooditems",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Functionall",
+      "request": "launch",
+      "mainClass": "practice.Functionall",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "JavaProgram",
+      "request": "launch",
+      "mainClass": "practice.JavaProgram",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Load",
+      "request": "launch",
+      "mainClass": "practice.Load",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainCircle",
+      "request": "launch",
+      "mainClass": "practice.MainCircle",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainMultiPly",
+      "request": "launch",
+      "mainClass": "practice.MainMultiPly",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainTask",
+      "request": "launch",
+      "mainClass": "practice.MainTask",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MainTest",
+      "request": "launch",
+      "mainClass": "practice.MainTest",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MethodChain",
+      "request": "launch",
+      "mainClass": "practice.MethodChain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "MultiplicationMain",
+      "request": "launch",
+      "mainClass": "practice.MultiplicationMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "NaturalNo",
+      "request": "launch",
+      "mainClass": "practice.NaturalNo",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "NoArgMain",
+      "request": "launch",
+      "mainClass": "practice.NoArgMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "NoContext",
+      "request": "launch",
+      "mainClass": "practice.NoContext",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "NotifiacationMain",
+      "request": "launch",
+      "mainClass": "practice.NotifiacationMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Pallindrome",
+      "request": "launch",
+      "mainClass": "practice.Pallindrome",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ParamMain",
+      "request": "launch",
+      "mainClass": "practice.ParamMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Passby",
+      "request": "launch",
+      "mainClass": "practice.Passby",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Pattern",
+      "request": "launch",
+      "mainClass": "practice.Pattern",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ProdMain",
+      "request": "launch",
+      "mainClass": "practice.ProdMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ReferenceMain",
+      "request": "launch",
+      "mainClass": "practice.ReferenceMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Repetetion",
+      "request": "launch",
+      "mainClass": "practice.Repetetion",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Rev",
+      "request": "launch",
+      "mainClass": "practice.Rev",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "practice.Reverse",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Salary",
+      "request": "launch",
+      "mainClass": "practice.Salary",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "SecondPass",
+      "request": "launch",
+      "mainClass": "practice.SecondPass",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Sell",
+      "request": "launch",
+      "mainClass": "practice.Sell",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "SpecifyMain",
+      "request": "launch",
+      "mainClass": "practice.SpecifyMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "StaticDemoMain",
+      "request": "launch",
+      "mainClass": "practice.StaticDemoMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "StaticDemos",
+      "request": "launch",
+      "mainClass": "practice.StaticDemos",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "StrRepresentation",
+      "request": "launch",
+      "mainClass": "practice.StrRepresentation",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Table",
+      "request": "launch",
+      "mainClass": "practice.Table",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "TableSpecific",
+      "request": "launch",
+      "mainClass": "practice.TableSpecific",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test11",
+      "request": "launch",
+      "mainClass": "practice.Test11",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test13",
+      "request": "launch",
+      "mainClass": "practice.Test13",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test3(2)",
+      "request": "launch",
+      "mainClass": "practice.Test3",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Test9(1)",
+      "request": "launch",
+      "mainClass": "practice.Test9",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "TestMain",
+      "request": "launch",
+      "mainClass": "practice.TestMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "UniCode",
+      "request": "launch",
+      "mainClass": "practice.UniCode",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "UniCode2",
+      "request": "launch",
+      "mainClass": "practice.UniCode2",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VarReczMain",
+      "request": "launch",
+      "mainClass": "practice.VarReczMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "VariableRecz",
+      "request": "launch",
+      "mainClass": "practice.VariableRecz",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "naturalnumber",
+      "request": "launch",
+      "mainClass": "practice.naturalnumber",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ResuseMain",
+      "request": "launch",
+      "mainClass": "resuse2.ResuseMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "test.Example",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "ExperMain",
+      "request": "launch",
+      "mainClass": "test.ExperMain",
+      "projectName": "JavaDeveloper"
+    },
+    {
+      "type": "java",
+      "name": "TestMain(1)",
+      "request": "launch",
+      "mainClass": "test.TestMain",
+      "projectName": "JavaDeveloper"
+    }
+  ]
+}
