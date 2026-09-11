@@ -6,7 +6,14 @@
   "java.debug.settings.onBuildFailureProceed": true,
   "cSpell.words": [
     "BBSR",
-    "Cuttack"
+    "Cuttack",
+    "lgst",
+    "lrgst",
+    "slgst",
+    "slrgst",
+    "Thrid",
+    "tlgst",
+    "tlrgst"
   ],
   "java.format.settings.url": ".vscode/java-formatter.xml"
 }

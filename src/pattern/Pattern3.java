@@ -22,7 +22,4 @@ public class Pattern3 {
 
         sc.close();
     }
-
-   
-
 }

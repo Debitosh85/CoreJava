@@ -15,8 +15,6 @@ public class ThredUsinglambda {
       g.playGame();
     });
     t1.start();
-
-
     }
   }
   

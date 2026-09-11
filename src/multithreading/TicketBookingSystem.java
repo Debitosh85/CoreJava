@@ -1,6 +1,5 @@
 package multithreading;
 
-
 public class TicketBookingSystem {
     public synchronized void bookTicket(User user, Show show) {
         if (show.bookTicket()) {

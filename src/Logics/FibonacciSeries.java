@@ -22,10 +22,7 @@ public class FibonacciSeries {
             System.out.println("" + sum);
             first = second;
             second = sum;
-
         }
         sc.close();
-
     }
-
 }

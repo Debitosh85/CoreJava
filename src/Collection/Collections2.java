@@ -1,7 +1,6 @@
 package Collection;
 
 import java.util.ArrayList;
-
 import java.util.LinkedList;
 
 public class Collections2 {
@@ -37,10 +36,10 @@ public class Collections2 {
         // }
 
         LinkedList<String> li = new LinkedList<>();
-        li.add("jiban");
+        li.add("Jiban");
         li.add("Situ");
 
-        ArrayList<String> al = new ArrayList(li);
+        ArrayList<String> al = new ArrayList<>(li);
 
         for (String names : al) {
             System.out.println(names);

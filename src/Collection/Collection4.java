@@ -14,8 +14,6 @@ public class Collection4 {
 		ts1.add(new StringBuffer("A"));
 		System.out.println(ts1);
 
-		
-		
         TreeSet<StringBuilder> ts2 = new TreeSet<>();
 		
         ts2.add(new StringBuilder("B"));

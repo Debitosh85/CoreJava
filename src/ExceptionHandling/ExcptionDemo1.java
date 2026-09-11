@@ -1,7 +1,6 @@
 package ExceptionHandling;
 
 public class ExcptionDemo1 {
-
   public static void main(String[] args) {
       
     try {
@@ -14,7 +13,6 @@ public class ExcptionDemo1 {
     } finally {
       System.out.println("finally block");
     }
-
   }
 
 }
